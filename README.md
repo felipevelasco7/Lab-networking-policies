@@ -323,3 +323,9 @@ La db no acepta conexiones directas de otros pods.
 DNS se permite explícitamente para todos los pods.
 
 Esto representa una arquitectura de seguridad por capas, siguiendo el principio de menor privilegio (least privilege) y una aproximación zero trust.
+
+## Imagenes
+![Creacion de los clusters](Fotos/foto1.png)
+![Creacion de los clusters](Fotos/foto2.png)
+![Creacion de los clusters](Fotos/foto3.png)
+
